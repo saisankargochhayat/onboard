@@ -38,8 +38,4 @@ jspm_packages
 .gitignore_LOCAL_11738
 .gitignore_REMOTE_11738
 .tmp/
-app/sample.html
-app/sample/
-app/scripts/material.js
-app/styles/
 dist/
